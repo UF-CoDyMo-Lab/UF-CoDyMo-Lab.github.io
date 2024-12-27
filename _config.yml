@@ -29,6 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+include:
+  - _pages
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
@@ -42,6 +45,7 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
+
 #
 # exclude:
 #   - .sass-cache/
