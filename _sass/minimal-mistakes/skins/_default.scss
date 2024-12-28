@@ -10,7 +10,7 @@ $muted-text-color: #5C5C5C !default;
 $primary-color: #4CA9EE !default;
 $secondary-color: #164A68 !default;
 $border-color: mix(#fff, #393e46, 75%) !default;
-$footer-background: linear-gradient(180deg, rgba(76, 169, 238, 1) 0%, rgb(41, 135, 190) 100%) !default;
+$footer-background: linear-gradient(180deg, rgb(58, 132, 188) 0%, rgb(25, 89, 125) 100%) !default;
 $link-color: #393e46 !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
@@ -22,4 +22,9 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 .page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
+}
+
+::selection {
+  background-color: $secondary-color !important;
+  color: #fff !important;
 }
