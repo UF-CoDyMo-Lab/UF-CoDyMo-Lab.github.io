@@ -13,7 +13,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $footer-background-color;
+  background: $footer-background;
 
   footer {
     @include clearfix;
@@ -50,6 +50,9 @@
 }
 
 .page__footer-follow {
+  display: grid;
+  grid-template-columns: 1fr auto;
+
   ul {
     margin: 0;
     padding: 0;
@@ -78,6 +81,14 @@
   .social-icons {
     a {
       white-space: nowrap;
+    }
+  }
+  .page_footer-container {
+    .footer-image{
+      max-width: 200px;
+      height: auto;
+      background-color: white;
+      border-radius: 50%;
     }
   }
 }

@@ -12,6 +12,7 @@
   max-width: 100%;
   padding-inline: 1em;
   font-family: $sans-serif;
+  font-weight: 350;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.3s;
@@ -24,7 +25,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: $type-size-7;
 
     @include breakpoint($large) {
       float: inline-end;
@@ -41,7 +42,8 @@
   }
 
   .current {
-    font-weight: bold;
+    font-weight: 400;
+    color: $info-color;
   }
 }
 
@@ -74,7 +76,7 @@
       padding: 0.5em 1em;
       font-family: $sans-serif;
       font-size: 14px;
-      font-weight: bold;
+      font-weight: normal;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
@@ -161,6 +163,7 @@
   margin-top: 2em;
   padding-top: 2em;
   border-top: 1px solid $border-color;
+  font-weight: 400;
 }
 
 /*
@@ -483,7 +486,7 @@
   padding: 0.5rem 0.75rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
-  font-weight: bold;
+  font-weight: medium;
 }
 
 .nav__sub-title {
@@ -492,7 +495,7 @@
   padding: 0.25rem 0;
   font-family: $sans-serif-narrow;
   font-size: $type-size-6;
-  font-weight: bold;
+  font-weight: normal;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }

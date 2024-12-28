@@ -17,27 +17,34 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
+locale: "en-US"
+title: "UF CoDES"
+title_separator: "|"
+subtitle: ""
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "The Coastal Dynamics and Earth Systems Lab at University of Florida"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: #jekyllrb
+github_username: #jekyll
 
 include:
+  - .htaccess
   - _pages
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+logo: "/assets/images/logos/UF_CDL_Draft_1long.png"
+breadcrumbs: true # disabled by default
+breadcrumb_home_label: "Home"
+breadcrumb_separator: "/"
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
- 
+  - jekyll-archives
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,3 +65,33 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+pagination:
+  enabled: true
+  per_page: 5
+  path: "/page:num/"
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - .htaccess
+  - _pages
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
