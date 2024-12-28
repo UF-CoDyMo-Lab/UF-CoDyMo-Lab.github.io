@@ -5,6 +5,6 @@ Website for [UF CoDES Lab](https://uf-codes-lab.github.io/)
 
 `git pull`
 
-`bundle update`
+`bundle update` this only work when you already have gem installed on your local environment.
 
 `bundle exec jekyll serve`
