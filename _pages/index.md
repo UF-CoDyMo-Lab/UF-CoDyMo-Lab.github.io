@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: UF CoDES
+title: UF CoDyMo
 indicator: home
 permalink: /
 header:
@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: "/assets/images/wave-beach-veg.jpg"
   caption: "Please edit this part -> Describe this photo and where it was taken *Photo: J. Smith*"
-excerpt: "The Coastal Dynamics & Earth Systems Laboratory at University of Florida"
+excerpt: "The Coastal Dynamics & Earth Systems Modeling Laboratory at University of Florida"
 ---
 
 ### We study <strong>how</strong> and <strong>why</strong> coastlines change.
