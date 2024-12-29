@@ -1,4 +1,4 @@
-# UF-CoDES-Lab.github.io
+# UF-CoDyMo-Lab.github.io
 Website for [UF CoDyMo Lab](https://uf-codymo-lab.github.io/)
 
 `git fetch`
