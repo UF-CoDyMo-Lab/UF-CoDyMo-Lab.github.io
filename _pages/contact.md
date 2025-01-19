@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: "/assets/images/uf.png"
-  caption: "University of Florida walk way next to Plaza of the Americas"
+  caption: "University of Florida walk way next to Plaza of the Americas. <i>Photo: V. Bui</i>"
 excerpt: "Florida<br>
         Navigation at UF<br/>
         Our lab"
