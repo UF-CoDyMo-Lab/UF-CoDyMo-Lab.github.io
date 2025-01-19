@@ -25,8 +25,8 @@ are especially encouraged to apply!
 If you are interested in joining, contact Dr. Jorge Lorenzo-Trueba via email to set up a meeting.
 
 <blockquote>
-"Do not think that what is hard for you to master is humanly impossible; but if a thing is humanly possible, consider it to be within your reach."\
-\
+"Do not think that what is hard for you to master is humanly impossible; but if a thing is humanly possible, consider it to be within your reach."
+<br><br>
 Marcus Aurelius
 </blockquote>
 
