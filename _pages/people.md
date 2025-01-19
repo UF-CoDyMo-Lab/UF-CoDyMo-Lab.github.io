@@ -68,9 +68,9 @@ grads:
               *Intern Fall 2024 University of Minnesota*<br/>
               B.A. 2024 Augustana College, IL<br/>
               buiv [at] ufl [dot] edu"
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+    url: "https://vietmbui.com/"
+    btn_label: "Homepage"
+    btn_class: "btn--inverse"
 ---
 
 ## Faculty
