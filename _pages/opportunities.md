@@ -28,4 +28,4 @@ If you are interested in joining, contact Dr. Jorge Lorenzo-Trueba via email to 
 
 - Marcus Aurelius
 
-**This lab is open to all people including but not limited to those from different socioeconomic backgrounds, races and ethnicities, gender identities and sexualities, religions, disabilities, familial obligations, and other personal identities.**
+**This lab is open to all people including, but not limited to, those from different socioeconomic backgrounds, races and ethnicities, gender identities and sexualities, religions, disabilities, familial obligations, and other personal identities.**
