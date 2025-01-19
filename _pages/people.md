@@ -28,14 +28,49 @@ faculty:
     btn_class: "btn--inverse"
 
 grads:
-  - image_path: 
-    alt: ""
-    title: ""
-    excerpt: ""
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "MD Nurul Kadir"
+    title: "MD Nurul Kadir"
+    excerpt: "**PhD Student**<br/>
+              **University of Florida**<br/>
+              M.S. 2021 Wageningen University & Research<br/>
+              B.S. 2012 Bangladesh Agriculture University<br/>
+              mdnurulkadir [at] ufl [dot] edu"
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Taznin Naher"
+    title: "Taznin Naher"
+    excerpt: "**MS Student**<br/>
+              **University of Florida**<br/>
+              M.S. 2021 IHE Delft Institute for Water Education<br/>
+              B.S. 2012 Bangladesh Agriculture University<br/>
+              naher [dot] t [at] ufl [dot] edu"
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Eric C Dammann Jr"
+    title: "Eric C. Dammann Jr."
+    excerpt: "**PhD Student**<br/>
+              **University of Florida**<br/>
+              B.S. 2024 Montclair State University<br/>
+              eric [dot] dammann [at] ufl [dot] edu"
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Viet M Bui"
+    title: "Viet M. Bui"
+    excerpt: "**PhD Student**<br/>
+              **University of Florida**<br/>
+              *Intern Fall 2024 University of Minnesota*<br/>
+              B.A. 2024 Augustana College, IL<br/>
+              buiv [at] ufl [dot] edu"
+    #url: ""
+    #btn_label: "Homepage"
+    #btn_class: "btn--inverse"
 ---
 
 ## Faculty

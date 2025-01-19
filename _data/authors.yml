@@ -22,14 +22,38 @@ Jorge Lorenzo-Trueba:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/extravagantman"
-# Cornelius Fiddlebone:
-#   name: "Cornelius Fiddlebone"
-#   bio: "I ordered what?"
-#   avatar: "/assets/images/bio-photo.jpg"
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:cornelius@thewhip.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/rhymeswithsackit"
+Viet M Bui:
+  name: "Viet M. Bui"
+  bio: "PhD Student, University of Florida"
+  avatar: "/assets/images/placeholder.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:buiv@ufl.edu"
+
+Eric C Dammann Jr:
+  name: "Eric C. Dammann Jr."
+  bio: "PhD Student, University of Florida"
+  avatar: "/assets/images/placeholder.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:eric.dammann@ufl.edu"
+
+Taznin Naher:
+  name: "Taznin Naher"
+  bio: "MS Student, University of Florida"
+  avatar: "/assets/images/placeholder.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:naher.t@ufl.edu"
+
+MD Nurul Kadir:
+  name: "MD Nurul Kadir"
+  bio: "PhD Student, University of Florida"
+  avatar: "/assets/images/placeholder.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ndnurulkadir@ufl.edu"
