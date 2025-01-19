@@ -7,13 +7,25 @@ header:
   overlay_filter: "0.5"
   overlay_image: "/assets/images/wave-beach-veg.jpg"
   caption: "Please edit this part -> Describe this photo and where it was taken *Photo: J. Smith*"
-excerpt: "<ul><li>Interested in joining the UF CoDyMo Lab?</li><li>
-Contact Dr. Jorge Lorenzo-Trueba</li><li>
-Those with a background in mathmatics, engineering, physics, or computer science are especially encouraged to reach out</li><li>
-Do not think that what is hard for you to master is humanly impossible; but if a thing is humanly possible, consider it to be within your reach.</li><li>
-- Marcus Aurelius</li>"
+  
 ---
 
-## Header 2
+## Interested in joining the UF CoDyMo Lab?
 
-Lorem ipsum
+Our lab group has members from a diverse swath of academic backgrounds but those with a background in:
+
+* Earth Science and Geology
+* Mathematics
+* Engineering
+* Computer Science
+* Physics
+
+are especially encouraged to apply!
+
+If you are interested in joining, contact Dr. Jorge Lorenzo-Trueba via email to set up a meeting.
+
+"*Do not think that what is hard for you to master is humanly impossible; but if a thing is humanly possible, consider it to be within your reach.*"
+
+- Marcus Aurelius
+
+**This lab is open to all people including but not limited to those from different socioeconomic backgrounds, races and ethnicities, gender identities and sexualities, religions, disabilities, familial obligations, and other personal identities.**
