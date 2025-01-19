@@ -25,7 +25,6 @@ are especially encouraged to apply!
 If you are interested in joining, contact Dr. Jorge Lorenzo-Trueba via email to set up a meeting.
 
 "*Do not think that what is hard for you to master is humanly impossible; but if a thing is humanly possible, consider it to be within your reach.*"
-
-- Marcus Aurelius
+-Marcus Aurelius
 
 **This lab is open to all people including, but not limited to, those from different socioeconomic backgrounds, races and ethnicities, gender identities and sexualities, religions, disabilities, familial obligations, and other personal identities.**
