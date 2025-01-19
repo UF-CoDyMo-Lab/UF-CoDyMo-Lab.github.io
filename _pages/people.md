@@ -60,7 +60,7 @@ grads:
     #url: ""
     #btn_label: "Homepage"
     #btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/viet.png
     alt: "Viet M Bui"
     title: "Viet M. Bui"
     excerpt: "**PhD Student**<br/>
