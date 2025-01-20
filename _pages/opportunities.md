@@ -18,7 +18,7 @@ header:
 
 Our lab group has members from a diverse swath of academic backgrounds but those with a background in:
 
-* Earth Science and Geology
+* Quantitative Geology/Earth Science
 * Mathematics
 * Engineering
 * Computer Science
