@@ -82,6 +82,24 @@ affiliated:
     # url: ""
     # btn_label: "About"
     # btn_class: "btn--inverse"
+    - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Shane Daiek"
+    title: "Shane Daiek"
+    excerpt: "**Placeholder for excerpt**<br/>
+              Ph.D. ...<br/>
+              email?"
+    # url: ""
+    # btn_label: "About"
+    # btn_class: "btn--inverse"
+    - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Shane Nichols-O'Neill"
+    title: "Shane Nichols-O'Neill"
+    excerpt: "**Placeholder for excerpt**<br/>
+              Ph.D. ...<br/>
+              email?"
+    # url: ""
+    # btn_label: "About"
+    # btn_class: "btn--inverse"
 
 animals: 
   - image_path: /assets/images/bio/placeholder.jpg
