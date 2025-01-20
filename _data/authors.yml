@@ -24,6 +24,7 @@ Jorge Lorenzo-Trueba:
     #   url: "https://twitter.com/extravagantman"
 Viet M Bui:
   name: "Viet M. Bui"
+  avatar: "/assets/images/bio/viet.png"
   bio: "PhD Student, University of Florida"
   avatar: "/assets/images/placeholder.jpg"
   links:
@@ -33,6 +34,7 @@ Viet M Bui:
 
 Eric C Dammann Jr:
   name: "Eric C. Dammann Jr."
+  avatar: "/assets/images/bio/placeholder.jpg"
   bio: "PhD Student, University of Florida"
   avatar: "/assets/images/placeholder.jpg"
   links:
@@ -42,6 +44,7 @@ Eric C Dammann Jr:
 
 Taznin Naher:
   name: "Taznin Naher"
+  avatar: "/assets/images/bio/placeholder.jpg"
   bio: "MS Student, University of Florida"
   avatar: "/assets/images/placeholder.jpg"
   links:
@@ -51,6 +54,7 @@ Taznin Naher:
 
 MD Nurul Kadir:
   name: "MD Nurul Kadir"
+  avatar: "/assets/images/bio/placeholder.jpg"
   bio: "PhD Student, University of Florida"
   avatar: "/assets/images/placeholder.jpg"
   links:

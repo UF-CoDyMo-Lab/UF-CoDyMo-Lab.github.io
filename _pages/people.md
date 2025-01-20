@@ -47,7 +47,7 @@ grads:
               M.S. 2021 IHE Delft Institute for Water Education<br/>
               B.S. 2012 Bangladesh Agriculture University<br/>
               naher [dot] t [at] ufl [dot] edu"
-    url: "/personal/tnaher/"
+    url: "/people/tnaher/"
     btn_label: "About"
     btn_class: "btn--inverse"
   - image_path: /assets/images/bio/placeholder.jpg
