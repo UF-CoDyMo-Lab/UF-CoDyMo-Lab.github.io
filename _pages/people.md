@@ -36,9 +36,9 @@ grads:
               M.S. 2021 Wageningen University & Research<br/>
               B.S. 2012 Bangladesh Agriculture University<br/>
               mdnurulkadir [at] ufl [dot] edu"
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+    url: "/personal/mdnkadir/"
+    btn_label: "Homepage"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/bio/placeholder.jpg
     alt: "Taznin Naher"
     title: "Taznin Naher"
@@ -47,9 +47,9 @@ grads:
               M.S. 2021 IHE Delft Institute for Water Education<br/>
               B.S. 2012 Bangladesh Agriculture University<br/>
               naher [dot] t [at] ufl [dot] edu"
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+    url: "/personal/tnaher/"
+    btn_label: "About"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/bio/placeholder.jpg
     alt: "Eric C Dammann Jr"
     title: "Eric C. Dammann Jr."
@@ -57,9 +57,9 @@ grads:
               **University of Florida**<br/>
               B.S. 2024 Montclair State University<br/>
               eric [dot] dammann [at] ufl [dot] edu"
-    #url: ""
-    #btn_label: "Homepage"
-    #btn_class: "btn--inverse"
+    url: "/personal/edammann/"
+    btn_label: "About"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/bio/viet.png
     alt: "Viet M Bui"
     title: "Viet M. Bui"
@@ -68,8 +68,8 @@ grads:
               *Intern Fall 2024 University of Minnesota*<br/>
               B.A. 2024 Augustana College, IL<br/>
               buiv [at] ufl [dot] edu"
-    url: "https://vietmbui.com/"
-    btn_label: "Homepage"
+    url: "/personal/vbui/"
+    btn_label: "About"
     btn_class: "btn--inverse"
 ---
 
