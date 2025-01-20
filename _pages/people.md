@@ -71,6 +71,27 @@ grads:
     url: "/personal/vbui/"
     btn_label: "About"
     btn_class: "btn--inverse"
+
+affiliated:
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Isamar Cortes"
+    title: "Isamar Cortes"
+    excerpt: "**Tropical Coastal Geomorphologist**<br/>
+              Ph.D. 2024 Montclair State University<br/>
+              email?"
+    # url: ""
+    # btn_label: "About"
+    # btn_class: "btn--inverse"
+
+animals: 
+  - image_path: /assets/images/bio/placeholder.jpg
+    alt: "Zeno Doggo Dammann Jr"
+    title: "Zeno Doggo Dammann Jr."
+    excerpt: "D.O.A 2###"
+    # url: ""
+    # btn_label: "Homepage"
+    # btn_class: "btn--inverse"
+
 ---
 
 ## Faculty
@@ -80,3 +101,12 @@ grads:
 ## Graduate Students
 
 {% include feature_row id="grads" %}
+
+## Affiliated & Key Scientists
+Since we started as Coastal Dynamics Lab at Montclair State, these people are the foundation of the group from the beginning.
+
+{% include feature_row id="affiliated" %}
+
+## Animals Behind Scientists
+
+{% include feature_row id="animals" %}
