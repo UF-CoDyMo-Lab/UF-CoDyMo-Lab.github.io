@@ -23,6 +23,7 @@ Our lab group has members from a diverse swath of academic backgrounds but those
 * Engineering
 * Computer Science
 * Physics
+* Geography, GIS and remote sensing
 
 are especially encouraged to apply!
 
