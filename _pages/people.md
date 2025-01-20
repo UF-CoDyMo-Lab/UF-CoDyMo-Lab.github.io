@@ -128,3 +128,31 @@ Since we started as Coastal Dynamics Lab at Montclair State, these people are th
 ## Animals Behind Scientists
 
 {% include feature_row id="animals" %}
+
+## Previous Group Members
+
+### Jesse Kolodin
+Jesse became a 2021/2022 Fellow with the Eagleton Insitute of Politics and Science Initiative. Jesse currently works with New Jersey’s State Department of Banking and Insurance, assisting as a climate specialist that is helping to develop better regulating practices for the private flood insurance market. Check out Jesse’s Twitter Page, Research Gate, Github, or LinkedIn profiles.
+
+### Madeline Kollegger
+Currently a PhD student in the Landscape Biogeochemistry lab at the University of Connecticut. She is studying Thin Layer Placement in Long Island Sound. You can contact her at madeline.kollegger@uconn.edu, her Twitter @madelinepk1, ResearchGate, or LinkedIn.
+
+### Arye Janoff
+Arye became a Knauss Fellow in February of 2021. Check out Arye’s personal website, Twitter page, Google Scholar, Github, or Research Gate!
+
+### Christopher Tenebruso
+Working in the field at GEI Consultants. Find his LinkedIn here.
+
+### Norjmaa Khosbaatar
+
+### William Anderson
+Ph.D. North Carolina State University. LNLL Postdoc.
+
+### Daniel Ciarletta
+Currently a Mendenhall Postdoctoral Fellow at St. Petersburg Coastal and Marine Science Center (USGS).
+
+### Undergraduate Students
+Kevin Weatherwalks, Mathematical Sciences (May 2016 – August 2017)
+James Kim, Computer Sciences (May 2016 – September 2016)
+Matthew Cheung, Biological Sciences (Fall 2015 and Spring 2016)
+Luis Germano Biolchi, Earth Science (Spring 2015).
