@@ -36,7 +36,7 @@ grads:
               M.S. 2021 Wageningen University & Research<br/>
               B.S. 2012 Bangladesh Agriculture University<br/>
               mdnurulkadir [at] ufl [dot] edu"
-    url: "/personal/mdnkadir/"
+    url: "/people/mdnkadir/"
     btn_label: "Homepage"
     btn_class: "btn--inverse"
   - image_path: /assets/images/bio/placeholder.jpg
@@ -57,7 +57,7 @@ grads:
               **University of Florida**<br/>
               B.S. 2024 Montclair State University<br/>
               eric [dot] dammann [at] ufl [dot] edu"
-    url: "/personal/edammann/"
+    url: "/people/edammann/"
     btn_label: "About"
     btn_class: "btn--inverse"
   - image_path: /assets/images/bio/viet.png
@@ -68,7 +68,7 @@ grads:
               *Intern Fall 2024 University of Minnesota*<br/>
               B.A. 2024 Augustana College, IL<br/>
               buiv [at] ufl [dot] edu"
-    url: "/personal/vbui/"
+    url: "/people/vbui/"
     btn_label: "About"
     btn_class: "btn--inverse"
 
