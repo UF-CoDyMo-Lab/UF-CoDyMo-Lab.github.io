@@ -132,24 +132,24 @@ Since we started as Coastal Dynamics Lab at Montclair State, these people are th
 ## Previous Group Members
 
 ### Jesse Kolodin
-Jesse became a 2021/2022 Fellow with the Eagleton Insitute of Politics and Science Initiative. Jesse currently works with New Jersey’s State Department of Banking and Insurance, assisting as a climate specialist that is helping to develop better regulating practices for the private flood insurance market. Check out Jesse’s Twitter Page, Research Gate, Github, or LinkedIn profiles.
+Jesse became a 2021/2022 Fellow with the Eagleton Insitute of Politics and Science Initiative. Jesse currently works with New Jersey’s State Department of Banking and Insurance, assisting as a climate specialist that is helping to develop better regulating practices for the private flood insurance market. Check out Jesse’s [Twitter Page](https://x.com/JesseKolodin), [Research Gate](https://www.researchgate.net/profile/Jesse-Kolodin), [Github](https://github.com/KolodinJesse), or [LinkedIn](https://www.linkedin.com/in/jesse-kolodin-ph-d-06228b64/) profiles.
 
 ### Madeline Kollegger
-Currently a PhD student in the Landscape Biogeochemistry lab at the University of Connecticut. She is studying Thin Layer Placement in Long Island Sound. You can contact her at madeline.kollegger@uconn.edu, her Twitter @madelinepk1, ResearchGate, or LinkedIn.
+Currently a PhD student in the Landscape Biogeochemistry lab at the University of Connecticut. She is studying Thin Layer Placement in Long Island Sound. You can contact her at madeline.kollegger@uconn.edu, her [LinkedIn](https://www.linkedin.com/in/madeline-kollegger-961a90ab/).
 
 ### Arye Janoff
-Arye became a Knauss Fellow in February of 2021. Check out Arye’s personal website, Twitter page, Google Scholar, Github, or Research Gate!
+Arye became a Knauss Fellow in February of 2021. Check out Arye’s personal [website](https://aryejanoff.wixsite.com/personalwebsite/)
 
 ### Christopher Tenebruso
-Working in the field at GEI Consultants. Find his LinkedIn here.
+Working in the field at GEI Consultants. Find his LinkedIn [here](https://www.linkedin.com/in/christopher-tenebruso-524922117/).
 
 ### Norjmaa Khosbaatar
 
 ### William Anderson
-Ph.D. North Carolina State University. LNLL Postdoc.
+Ph.D. North Carolina State University. [LNLL Postdoc](https://github.com/andersonw1).
 
 ### Daniel Ciarletta
-Currently a Mendenhall Postdoctoral Fellow at St. Petersburg Coastal and Marine Science Center (USGS).
+Currently a [Mendenhall Postdoctoral Fellow](https://www.usgs.gov/staff-profiles/daniel-ciarletta?qt-staff_profile_science_products=0#qt-staff_profile_science_products) at St. Petersburg Coastal and Marine Science Center (USGS).
 
 ### Undergraduate Students
 Kevin Weatherwalks, Mathematical Sciences (May 2016 – August 2017)
