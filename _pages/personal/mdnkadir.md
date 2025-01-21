@@ -21,7 +21,13 @@ classes: wide
 
 Kadir is a Ph.D. student working on the Megalopolitan Coastal Transformation Hub (MACH) project funded by the NSF. His research focuses on extending and modifying a numerical model for the evolution of fluvial deltas under sea-level cycles to describe the development of estuaries under various scenarios of sea-level rise, water discharge, and tidal influence. The key innovation in his work is the coupling between hydrodynamics and estuarine geometry over decadal to centennial time scales. This research aims to constrain the role of estuarine geomorphic changes on flood risk along the Delaware estuary.
 
+## Research Visuals
 
+![Research Visualization 1](/assets/images/R1.gif)  
+*Caption for the first .gif image (optional)*
+
+![Research Visualization 2](/assets/images/R2.gif)  
+*Caption for the second .gif image (optional)*assets/images/
 
 ## Affiliations
 
