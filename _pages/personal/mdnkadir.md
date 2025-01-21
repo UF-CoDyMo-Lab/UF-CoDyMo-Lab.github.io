@@ -9,7 +9,9 @@ author: Md Nurul Kadir
 author_profile: true
 
 classes: wide
-
+sidebar:
+  image: "/assets/images/bio/kadir.png" 
+  alt_text: "Md Nurul Kadir"
 # If you want a header image
 #header:
 #  image: "/assets/images/photo-1590379492966-e076d8f84c2d.jpeg"
