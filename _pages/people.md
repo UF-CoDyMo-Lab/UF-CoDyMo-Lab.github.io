@@ -28,9 +28,9 @@ faculty:
     btn_class: "btn--inverse"
 
 grads:
-  - image_path: /assets/images/bio/placeholder.jpg
-    alt: "MD Nurul Kadir"
-    title: "MD Nurul Kadir"
+  - image_path: /assets/images/bio/kadir.png
+    alt: "Md Nurul Kadir"
+    title: "Md Nurul Kadir"
     excerpt: "**PhD Student**<br/>
               **University of Florida**<br/>
               M.S. 2021 Wageningen University & Research<br/>
