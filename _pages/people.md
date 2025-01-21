@@ -37,7 +37,7 @@ grads:
               B.S. 2012 Bangladesh Agriculture University<br/>
               mdnurulkadir [at] ufl [dot] edu"
     url: "/people/mdnkadir/"
-    btn_label: "Homepage"
+    btn_label: "About"
     btn_class: "btn--inverse"
   - image_path: /assets/images/bio/placeholder.jpg
     alt: "Taznin Naher"
