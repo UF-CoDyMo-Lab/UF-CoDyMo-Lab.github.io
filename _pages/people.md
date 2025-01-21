@@ -50,7 +50,7 @@ grads:
     url: "/people/tnaher/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/eric.jpg
     alt: "Eric C Dammann Jr"
     title: "Eric C. Dammann Jr."
     excerpt: "**PhD Student**<br/>
