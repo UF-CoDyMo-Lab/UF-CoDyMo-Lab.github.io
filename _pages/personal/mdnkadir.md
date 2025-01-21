@@ -25,11 +25,16 @@ Kadir is a Ph.D. student working on the Megalopolitan Coastal Transformation Hub
 
 ## Research Visuals
 
-![Research Visualization 1](/assets/images/R1.gif)  
-*Estuarine Stratigraphy*
-
-![Research Visualization 2](/assets/images/R2.gif)  
-*Changes in Water level in an ideal estuary*
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <div>
+    <img src="/assets/images/R1.gif" alt="Research Visualization 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <p style="text-align: center; font-size: 14px;">Estuarine Stratigraphy</p>
+  </div>
+  <div>
+    <img src="/assets/images/R2.gif" alt="Research Visualization 2" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <p style="text-align: center; font-size: 14px;">Changes in Water Level in an Ideal Estuary</p>
+  </div>
+</div>
 
 ## Affiliations
 
