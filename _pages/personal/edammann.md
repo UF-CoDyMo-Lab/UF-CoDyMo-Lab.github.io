@@ -21,9 +21,10 @@ classes: wide
 
 My research interests
 
-
+## Personal Interests
 
 ## Affiliations
 
-* [Department of Geological Sciences](https://geology.ufl.edu/)
-* [CoDyMo](/index)
+* [Department of Geological Sciences @ UF](https://geology.ufl.edu/)
+* [UF CoDyMo Lab](/index)
+* [Megalopolitan Coastal Transformation Hub (MACH)](https://coastalhub.org/)
