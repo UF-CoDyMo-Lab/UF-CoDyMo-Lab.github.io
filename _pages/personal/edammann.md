@@ -39,11 +39,13 @@ I am quite passionate about helping to bridge the gap seen today between religio
 ""Excellence" is not a gift, but a skill that takes practice. We do not act "rightly" because we are "excellent", in fact we achieve "excellence" by acting "rightly"."
 <br><br>
   - Plato
-<br><br>
+</blockquote>
+<blockquote>
 “Indeed, we often so live as though we had no spirit in us, and the highest degree of human depravity is manifested by the fact that the spirit is completely stifled and the man becomes as though he were flesh alone.”
 <br><br>
   - St. John of Kronstadt
-  <br><br>
+</blockquote>
+<blockquote>
 "There can never be any real opposition between religion and science; for the one is the complement of the other."
 <br><br>
   - Max Planck
