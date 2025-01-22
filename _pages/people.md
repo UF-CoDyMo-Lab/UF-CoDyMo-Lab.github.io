@@ -39,7 +39,7 @@ grads:
     url: "/people/mdnkadir/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/taznin.png
     alt: "Taznin Naher"
     title: "Taznin Naher"
     excerpt: "**MS Student**<br/>
@@ -73,30 +73,29 @@ grads:
     btn_class: "btn--inverse"
 
 affiliated:
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/isamar.jpeg
     alt: "Isamar Cortes"
     title: "Isamar Cortes"
     excerpt: "**Tropical Coastal Geomorphologist**<br/>
+              *PreDoctoral Fellow NASA*<br/>
               Ph.D. 2024 Montclair State University<br/>
-              email?"
+              M.S. 2019 Montclair State University"
     # url: ""
     # btn_label: "About"
     # btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/shane_d.jpg
     alt: "Shane Daiek"
     title: "Shane Daiek"
-    excerpt: "**Placeholder for excerpt**<br/>
-              Ph.D. ...<br/>
-              email?"
+    excerpt: "**PhD Student @ Montclair State**<br/>
+              "
     # url: ""
     # btn_label: "About"
     # btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/shane_n.jpg
     alt: "Shane Nichols-O'Neill"
     title: "Shane Nichols-O'Neill"
-    excerpt: "**Placeholder for excerpt**<br/>
-              Ph.D. ...<br/>
-              email?"
+    excerpt: "**Research Assistant @ Montclair State**<br/>
+              M.S. 2023 Montclair State University"
     # url: ""
     # btn_label: "About"
     # btn_class: "btn--inverse"

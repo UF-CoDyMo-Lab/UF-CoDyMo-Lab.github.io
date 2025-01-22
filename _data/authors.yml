@@ -26,17 +26,21 @@ Viet M Bui:
   name: "Viet M. Bui"
   avatar: "/assets/images/bio/viet.png"
   bio: "Ph.D. Student, University of Florida"
-  avatar: "/assets/images/placeholder.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:buiv@ufl.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vietbuiminh"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://vietmbui.com/"
 
 Eric C. Dammann Jr.:
   name: "Eric C. Dammann Jr."
   avatar: "/assets/images/bio/eric.jpg"
   bio: "Ph.D. Student, University of Florida"
-  avatar: "/assets/images/bio/eric.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -47,9 +51,8 @@ Eric C. Dammann Jr.:
 
 Taznin Naher:
   name: "Taznin Naher"
-  avatar: "/assets/images/bio/placeholder.jpg"
+  avatar: "/assets/images/bio/taznin.png"
   bio: "M.S. Student, University of Florida"
-  avatar: "/assets/images/placeholder.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -57,9 +60,8 @@ Taznin Naher:
 
 MD Nurul Kadir:
   name: "MD Nurul Kadir"
-  avatar: "/assets/images/bio/placeholder.jpg"
+  avatar: "/assets/images/bio/kadir.png"
   bio: "Ph.D. Student, University of Florida"
-  avatar: "/assets/images/placeholder.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

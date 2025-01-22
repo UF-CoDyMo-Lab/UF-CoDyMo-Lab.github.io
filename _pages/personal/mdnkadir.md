@@ -1,17 +1,17 @@
 ---
-title: "Md Nurul Kadir"
+title: "MD Nurul Kadir"
 layout: single
 permalink: /people/mdnkadir/
 
 
 # Includes author profile in sidebar
-author: Md Nurul Kadir
+author: MD Nurul Kadir
 author_profile: true
 
 classes: wide
-sidebar:
-  image: "/assets/images/bio/kadir.png" 
-  alt_text: "Md Nurul Kadir"
+# sidebar:
+#   image: "/assets/images/bio/kadir.png" 
+#   alt_text: "MD Nurul Kadir"
 # If you want a header image
 #header:
 #  image: "/assets/images/photo-1590379492966-e076d8f84c2d.jpeg"
