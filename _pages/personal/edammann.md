@@ -32,9 +32,9 @@ I love learning about, understanding, and exploring the natural world. This incl
 ## Favorite Quote
 
 <blockquote>
-“In order for man to succeed in life, God provided him with two means, education and physical activity. Not separately, one for the soul and the other for the body, but for the two together. With these means, man can attain perfection.”
+"It is not knowledge, but the act of learning, not possession but the act of getting there, which grants the greatest enjoyment. When I have clarified and exhausted a subject, then I turn away from it, in order to go into darkness again; the never-satisfied man is so strange if he has completed a structure, then it is not in order to dwell in it peacefully, but in order to begin another. I imagine the world conqueror must feel thus, who, after one kingdom is scarcely conquered, stretches out his arms for others."
 <br><br>
-  - Plato
+  - Carl Friedrich Gauss
 </blockquote>
 
 ## Affiliations
