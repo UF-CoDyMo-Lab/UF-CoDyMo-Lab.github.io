@@ -99,6 +99,25 @@ affiliated:
     # url: ""
     # btn_label: "About"
     # btn_class: "btn--inverse"
+  - image_path: /assets/images/bio/jesse.jpg
+    alt: "Jesse Kolodin"
+    title: "Jesse Kolodin"
+    excerpt: "**Government Representative 2, New Jersey State Department of Banking and Insurance**<br/>
+              **Adjunct Professor, Montclair State University**<br/>
+              *Fellow 2021/2022 the Eagleton Insitute of Politics and Science Initiative*<br/>
+              PhD 2021 Montclair State University<br/>
+              M.S. 2011 Montclair State University"
+  - image_path: /assets/images/bio/madeline.jpg
+    alt: "Madeline Kollegger"
+    title: "Madeline Kollegger"
+    excerpt: "**PhD Student, University of Connecticut**<br/>"
+  - image_path: /assets/images/bio/arye.jpg
+    alt: "Arye Janoff"
+    title: "Arye Janoff"
+    excerpt: "**US Army Corps of Engineers**<br/>
+              * Knauss Marine Policy Fellow*<br/>
+              PhD 2021 Montclair State University<br/>
+              M.S. 2015 Tulane University"
 
 animals: 
   - image_path: /assets/images/bio/placeholder.jpg
@@ -119,25 +138,13 @@ animals:
 
 {% include feature_row id="grads" %}
 
-## Affiliated & Key Scientists
-Since we started as Coastal Dynamics Lab at Montclair State, these people are the foundation of the group from the beginning.
-
-{% include feature_row id="affiliated" %}
-
 ## Animals Behind Scientists
 
 {% include feature_row id="animals" %}
 
 ## Previous Group Members
 
-### Jesse Kolodin
-Jesse became a 2021/2022 Fellow with the Eagleton Insitute of Politics and Science Initiative. Jesse currently works with New Jersey’s State Department of Banking and Insurance, assisting as a climate specialist that is helping to develop better regulating practices for the private flood insurance market. Check out Jesse’s [Twitter Page](https://x.com/JesseKolodin), [Research Gate](https://www.researchgate.net/profile/Jesse-Kolodin), [Github](https://github.com/KolodinJesse), or [LinkedIn](https://www.linkedin.com/in/jesse-kolodin-ph-d-06228b64/) profiles.
-
-### Madeline Kollegger
-Currently a PhD student in the Landscape Biogeochemistry lab at the University of Connecticut. She is studying Thin Layer Placement in Long Island Sound. You can contact her at madeline.kollegger@uconn.edu, her [LinkedIn](https://www.linkedin.com/in/madeline-kollegger-961a90ab/).
-
-### Arye Janoff
-Arye became a Knauss Fellow in February of 2021. Check out Arye’s personal [website](https://aryejanoff.wixsite.com/personalwebsite/)
+{% include feature_row id="affiliated" %}
 
 ### Christopher Tenebruso
 Working in the field at GEI Consultants. Find his LinkedIn [here](https://www.linkedin.com/in/christopher-tenebruso-524922117/).
