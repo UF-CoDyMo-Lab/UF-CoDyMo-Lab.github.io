@@ -39,7 +39,7 @@ I love learning about, understanding, and exploring the natural world. This incl
 
 ## Affiliations
 
-* [Department of Geological Sciences @ UF](https://geology.ufl.edu/)
-* [UF CoDyMo Lab](/index)
+* [Department of Geological Sciences @ University of Florida](https://geology.ufl.edu/)
+* [University of Florida CoDyMo Lab](/index)
 * [Megalopolitan Coastal Transformation Hub (MACH)](https://coastalhub.org/)
 * [Keller Lab Group @ Dartmouth](https://keller-lab.github.io/)
