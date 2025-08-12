@@ -29,16 +29,16 @@ search: false
 }
 .background-research-wrapper img {
     display: grid;
-    object-fit: cover;
-    width: 100%;
-    height: 100%;
+    object-fit: fill;
+    width: auto;
+    height: auto;
     justify-content: center;
     align-items: center;
     align-content: center;
 }
 .research-excerpt-wrapper {
     position: relative;
-    padding: 2em 1em 0 1em;
+    padding: 2em 1em 2em 1em;
 }
 .research-excerpt {
     position: relative;
@@ -47,5 +47,9 @@ search: false
     margin-right: auto;
     padding: 3em 2em 2em 2em;
     max-width: 700px;
-    border-radius: 20px 20px 0 0 ;
+    border-radius: 20px;
+}
+
+.header-link .sr-only {
+    display: none;
 }

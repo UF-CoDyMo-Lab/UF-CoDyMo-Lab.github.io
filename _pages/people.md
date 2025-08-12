@@ -5,8 +5,8 @@ permalink: /people/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "/assets/images/wave-beach-veg.jpg"
-  caption: "Please edit this part -> Describe this photo and where it was taken *Photo: J. Smith*"
+  overlay_image: "/assets/images/IMG_6356.jpeg"
+  caption: "Sandbox demo during 2025 department Open House"
 excerpt: "Research members<br/>
           & friends"
 
@@ -129,6 +129,16 @@ animals:
     # btn_class: "btn--inverse"
 
 ---
+<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <div>
+    <img src="/assets/images/group2.jpg" alt="group photo" style="height: 400px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <p style="text-align: center; font-size: 14px;">Gainesville 5/3/2025. Left to right: Taznin, Viet, <br>Michael (from Gator Glaciology), Kadir, Eric, and Jorge</p>
+  </div>
+  <div>
+    <img src="/assets/images/group1.jpg" alt="group photo" style="height: 400px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <p style="text-align: center; font-size: 14px;">New Brunswick 5/27/2025</p>
+  </div>
+</div>
 
 ## Faculty
 

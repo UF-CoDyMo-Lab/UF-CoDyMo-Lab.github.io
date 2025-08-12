@@ -7,19 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: "/assets/images/uf.png"
   caption: "University of Florida walk way next to Plaza of the Americas. <i>Photo: V. Bui</i>"
-excerpt: "Florida<br>
-        Navigation at UF<br/>
-        Our lab"
+excerpt: ""
 ---
 
-## Florida
-
-With 2,170 km stretches of coastline, the State of Florida is the to-go location for coastal and hydrological researches...
-
-
-
-## University of Florida
-...
+Please contact Dr. Jorge Lorenzo-Trueba for more information.
 
 ## Our Lab
 
