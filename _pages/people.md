@@ -129,13 +129,21 @@ animals:
     # btn_class: "btn--inverse"
 
 ---
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+  <style>
+    @media (max-width: 900px) {
+      .group-photo-flex {
+        flex-direction: column !important;
+        align-items: center !important;
+      }
+    }
+  </style>
+  <div class="group-photo-flex" style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; width: 100%;">
   <div>
-    <img src="/assets/images/group2.jpg" alt="group photo" style="height: 400px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="/assets/images/group2.jpg" alt="group photo" style="height: auto; width: max-content; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     <p style="text-align: center; font-size: 14px;">Gainesville 5/3/2025. Left to right: Taznin, Viet, <br>Michael (from Gator Glaciology), Kadir, Eric, and Jorge</p>
   </div>
   <div>
-    <img src="/assets/images/group1.jpg" alt="group photo" style="height: 400px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="/assets/images/group1.jpg" alt="group photo" style="height: auto; width: max-content; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     <p style="text-align: center; font-size: 14px;">New Brunswick 5/27/2025</p>
   </div>
 </div>
