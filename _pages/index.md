@@ -17,6 +17,23 @@ excerpt: "The Coastal Dynamics & Earth Systems Modeling Laboratory at University
 Our lab is part of Department of [Geological Sciences](https://geology.ufl.edu/), University of Florida, Gainesville.
 {: .text-center}
 
+<style>
+  @media (max-width: 800px) {
+    .background-research-wrapper {
+      height: 100% !important;
+    }
+    .background-research-wrapper img {
+      object-fit: cover !important;
+      width: 100% !important;
+      height: 100% !important;
+    }
+    .research-excerpt-wrapper {
+      padding: 0;
+    }
+    
+  }
+</style>
+
 <div class="intro-research-wrapper">
   <div class="research-excerpt-wrapper">
     <div class="research-excerpt">
