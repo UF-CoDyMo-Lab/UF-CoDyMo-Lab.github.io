@@ -29,8 +29,15 @@ Quantitative Approaches in Geomorphology and Stratigraphy</li>"
 </div> -->
 
 ## Arctic Deltas & Relative Sea Levels
-
-<div style="display: flex; gap: 10px; justify-content: center; align-items: flex-start;">
+<style>
+    @media (max-width: 900px) {
+      .group-photo-flex {
+        flex-direction: column !important;
+        align-items: center !important;
+      }
+    }
+  </style>
+<div class="group-photo-flex" style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; width: 100%;">
   <div>
     <img src="/assets/images/9deltasiteswithmaps.png" alt="Arctic delta sites" style="height: 300px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     <p style="text-align: center; font-size: 14px;">Location of research sites</p>
