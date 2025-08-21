@@ -120,7 +120,7 @@ affiliated:
               M.S. 2015 Tulane University"
 
 animals: 
-  - image_path: /assets/images/bio/placeholder.jpg
+  - image_path: /assets/images/bio/bean.png
     alt: "Zeno Doggo Dammann Jr"
     title: "Zeno Doggo Dammann Jr."
     excerpt: "D.O.A 2###"
