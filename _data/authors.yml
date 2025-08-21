@@ -39,7 +39,7 @@ Viet M Bui:
 
 Eric C. Dammann Jr.:
   name: "Eric C. Dammann Jr."
-  avatar: "/assets/images/bio/eric.jpg"
+  avatar: "/assets/images/bio/eric.png"
   bio: "Ph.D. Student, University of Florida"
   links:
     - label: "Email"
@@ -51,7 +51,7 @@ Eric C. Dammann Jr.:
 
 Taznin Naher:
   name: "Taznin Naher"
-  avatar: "/assets/images/bio/taznin.png"
+  avatar: "/assets/images/bio/taznin.jpg"
   bio: "M.S. Student, University of Florida"
   links:
     - label: "Email"

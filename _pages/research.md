@@ -39,7 +39,7 @@ Quantitative Approaches in Geomorphology and Stratigraphy</li>"
   </style>
 <div class="group-photo-flex" style="display: flex; gap: 10px; justify-content: center; align-items: flex-start; width: 100%;">
   <div>
-    <img src="/assets/images/9deltasiteswithmaps.png" alt="Arctic delta sites" style="height: 300px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
+    <img src="/assets/images/9deltasiteswithmaps.png" alt="Arctic delta sites" style="height: auto;max-width:500px; width: auto; border: 1px solid #ddd; border-radius: 4px; padding: 5px;">
     <p style="text-align: center; font-size: 14px;">Location of research sites</p>
   </div>
 </div>

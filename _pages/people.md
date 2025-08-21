@@ -39,7 +39,7 @@ grads:
     url: "/people/mdnkadir/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/taznin.png
+  - image_path: /assets/images/bio/taznin.jpg
     alt: "Taznin Naher"
     title: "Taznin Naher"
     excerpt: "**MS Student**<br/>
@@ -50,7 +50,7 @@ grads:
     url: "/people/tnaher/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/eric.jpg
+  - image_path: /assets/images/bio/eric.png
     alt: "Eric C Dammann Jr"
     title: "Eric C. Dammann Jr."
     excerpt: "**PhD Student**<br/>
