@@ -505,10 +505,17 @@
         // allows to modify markup
         _mfpTrigger('FirstMarkupParse', markup);
 
-        if(markup) {
+        var isSafeMarkup = !!markup;
+        if(isSafeMarkup && typeof markup === 'string') {
+          // Prevent unsafe option-driven HTML from being interpreted by jQuery
+          // (script tags, inline event handlers, javascript: URLs)
+          isSafeMarkup = !(/<\s*script\b/i.test(markup) || /\bon[a-z]+\s*=/i.test(markup) || /javascript\s*:/i.test(markup));
+        }
+
+        if(isSafeMarkup) {
           mfp.currTemplate[type] = $(markup);
         } else {
-          // if there is no markup found we just define that template is parsed
+          // if there is no safe markup found we just define that template is parsed
           mfp.currTemplate[type] = true;
         }
       }
