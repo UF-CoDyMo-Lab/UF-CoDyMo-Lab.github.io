@@ -66,3 +66,12 @@ MD Nurul Kadir:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ndnurulkadir@ufl.edu"
+
+Bingkun Yang:
+  name: "Bingkun Yang"
+  avatar: "/assets/images/bio/bingkun.png"
+  bio: "Postdoc, CoDyMo, University of Florida"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:bingkunyang@ufl.edu"

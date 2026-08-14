@@ -27,6 +27,18 @@ faculty:
     btn_label: "About"
     btn_class: "btn--inverse"
 
+postdocs:
+  - image_path: /assets/images/bio/bingkun.png
+    alt: "Bingkun Yang"
+    title: "Bingkun Yang"
+    excerpt: "**Postdoc at CoDyMo**<br/>
+              **Department of Geological Sciences**<br/>
+              Ph.D. 2026 Civil Engineering, University of Florida<br/>
+              bingkunyang@ufl.edu"
+    url: "/people/byang/"
+    btn_label: "About"
+    btn_class: "btn--inverse"
+
 grads:
   - image_path: /assets/images/bio/kadir.png
     alt: "Md Nurul Kadir"
@@ -35,44 +47,47 @@ grads:
               **University of Florida**<br/>
               M.S. 2021 Wageningen University & Research<br/>
               B.S. 2012 Bangladesh Agriculture University<br/>
-              mdnurulkadir [at] ufl [dot] edu"
+              mdnurulkadir@ufl.edu"
     url: "/people/mdnkadir/"
     btn_label: "About"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/bio/taznin.jpg
-    alt: "Taznin Naher"
-    title: "Taznin Naher"
-    excerpt: "**MS Student**<br/>
-              **University of Florida**<br/>
-              M.S. 2021 IHE Delft Institute for Water Education<br/>
-              B.S. 2012 Bangladesh Agriculture University<br/>
-              naher [dot] t [at] ufl [dot] edu"
-    url: "/people/tnaher/"
-    btn_label: "About"
-    btn_class: "btn--inverse"
+  
   - image_path: /assets/images/bio/eric.png
     alt: "Eric C Dammann Jr"
     title: "Eric C. Dammann Jr."
     excerpt: "**PhD Student**<br/>
               **University of Florida**<br/>
               B.S. 2024 Montclair State University<br/>
-              eric [dot] dammann [at] ufl [dot] edu"
+              eric.dammann@ufl.edu"
     url: "/people/edammann/"
     btn_label: "About"
     btn_class: "btn--inverse"
+
   - image_path: /assets/images/bio/viet.png
     alt: "Viet M Bui"
     title: "Viet M. Bui"
     excerpt: "**PhD Student**<br/>
               **University of Florida**<br/>
+              *Visiting Scholar 2026 University of Colorado*<br/>
               *Intern Fall 2024 University of Minnesota*<br/>
               B.A. 2024 Augustana College, IL<br/>
-              buiv [at] ufl [dot] edu"
+              buiv@ufl.edu"
     url: "/people/vbui/"
     btn_label: "About"
     btn_class: "btn--inverse"
 
 affiliated:
+  - image_path: /assets/images/bio/taznin.jpg
+    alt: "Taznin Naher"
+    title: "Taznin Naher"
+    excerpt: "M.S. University of Florida<br/>
+              M.S. 2021 IHE Delft Institute for Water Education<br/>
+              B.S. 2012 Bangladesh Agriculture University<br/>
+              naher [dot] t [at] ufl [dot] edu"
+    url: "/people/tnaher/"
+    btn_label: "About"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/bio/isamar.jpeg
     alt: "Isamar Cortes"
     title: "Isamar Cortes"
@@ -152,13 +167,17 @@ animals:
 
 {% include feature_row id="faculty" %}
 
+## Postdocs
+
+{% include feature_row id="postdocs" %}
+
 ## Graduate Students
 
 {% include feature_row id="grads" %}
 
-## Animals Behind Scientists
+<!-- ## Animals Behind Scientists
 
-{% include feature_row id="animals" %}
+{% include feature_row id="animals" %} -->
 
 ## Previous Group Members
 
